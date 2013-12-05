@@ -42,6 +42,13 @@ print hw1_test.c
 print hw1_test.d
 print hw1_test.e
 print hw1_test.f
+
+# Here I from module hw1_test I imported all the values, then I print using the values. 
+#from hw1_test import a,b,c,d,e,f
+
+#print a,b,c,d,e,f
+
+
 # Answers found using import and print commands
 
 
